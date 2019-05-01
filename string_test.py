@@ -9,6 +9,7 @@ print(string.ascii_letters)
 print(string.hexdigits)
 
 
+
 jmena = set()
 slovnik = dict()
 for x in range(0, 100):
